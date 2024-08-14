@@ -1,7 +1,10 @@
 # Project Title
 
-![Manila](https://github.com/user-attachments/assets/e11135ea-b55a-46d7-bae5-e78995242847)
-
+<p align="center">
+  <br>
+  <img src="https://github.com/user-attachments/assets/e11135ea-b55a-46d7-bae5-e78995242847">
+  <br>
+</p>
 
 ## Getting Started
 
