@@ -6,7 +6,7 @@
                 <img src="https://github.com/user-attachments/assets/e11135ea-b55a-46d7-bae5-e78995242847" alt="이미지(1)" style="max-width: 100%; height: auto;">
             </td>
             <td style="width: 50%; text-align: center; vertical-align: middle; border: 1px solid #000; border-collapse: collapse;">
-                <img src="https://github.com/user-attachments/assets/0a34c36e-94a2-4c30-9354-412812c2b8fe" alt="이미지(2)" style="max-width: 100%; height: 449px;">
+                <img src="https://github.com/user-attachments/assets/0a34c36e-94a2-4c30-9354-412812c2b8fe" alt="이미지(2)" style="max-width: 100%; height: 435px;">
             </td>
         </tr>
     </table>
