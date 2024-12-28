@@ -35,6 +35,7 @@ uVision IDE를 활용하여 엘리베이터 기능 설계와 제작 및 테스�
 
 ### 💡Demo(시연영상)
 
+![manila4](https://github.com/user-attachments/assets/26305cd2-748a-47fa-bf1e-c5c15a71002c)
 
 
 ### 📑Contributing(기여 및 업무분장)
